@@ -23,7 +23,7 @@ import java.util.UUID;
 import static com.upgrad.FoodOrderingApp.api.util.Constants.BEARER_AUTH;
 
 /**
- * Controller to handle all the address related endpoints
+ * controller to handle all the address related endpoints
  */
 @CrossOrigin
 @RestController
